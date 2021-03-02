@@ -1,17 +1,18 @@
-# Title
+# Sound Board
 
-- [Rotating Navigation](#rotating-navigation)
+- [Sound Board](#sound-board)
   - [Deployment](#deployment)
   - [Description](#description)
   - [Screenshots](#screenshots)
 
 ## Deployment
 
-- Checkout deployment at <https://gagandeep39.github.io/>
+- Checkout deployment at https://gagandeep39.github.io/css-sound-board
 
 ## Description
 
-- Details
+- Play Audio in Browser
+- Audio tag Demo
 
 ## Screenshots
 
